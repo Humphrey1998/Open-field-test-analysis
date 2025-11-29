@@ -1,0 +1,5 @@
+{
+  "name": "BioStats AI: 旷场试验分析助手",
+  "description": "专为神经科学设计的自动分析工具。支持小鼠旷场试验（Open Field Test）数据的录入、可视化图表生成（Mean ± SEM）以及基于Gemini AI的显著性差异智能分析报告。",
+  "requestFramePermissions": []
+}
